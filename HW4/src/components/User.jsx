@@ -1,7 +1,7 @@
 function User({users, setState, setUser}){
     return(
         <>
-        <div className='box'>
+        <div className='info'>
             {users.map((item) => {
             return(
             <div key={item.id}>
