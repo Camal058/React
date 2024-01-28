@@ -125,8 +125,10 @@ function App() {
         "bs": "revolutionize end-to-end systems"
       }
     }])
-  const [state, setState] = useState(false)
+
   const [user, setUser] = useState("")
+  const [state, setState] = useState(false)
+  
   return (
     <>
       {state ? null : <User setState={setState} users={users} setUser={setUser}/>}
