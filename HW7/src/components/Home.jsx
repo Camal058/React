@@ -19,7 +19,7 @@ function Home() {
       <Row gutter={16}>
         {usersArray.map((item) => {
           return (
-            <Col span={8}>
+            <Col span={6}>
             <Card title={item.product_name} bordered={false}>
               <p>{item.product_description}</p>
               <p>{item.product_price}</p>
