@@ -148,7 +148,7 @@ export function MyBag() {
                       <div className="product-actions-container">
                         <div className="product-quantity-actions-container">
                           <span>
-                            Quantity
+                            Quantity: 
                           </span>
                           <div className="quantity-container">
                             <span>{product.quantity}</span>
