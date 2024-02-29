@@ -14,9 +14,6 @@ export function Footer() {
             9<sup>st</sup> Floor AF Mall<br/>
             Huseyn Cavid Road<br/>
           </p>
-          <p>
-            
-          </p>
         </div>
       </div> 
     </footer>
