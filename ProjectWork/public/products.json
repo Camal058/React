@@ -1,0 +1,196 @@
+[
+    {
+      "name": "Phone",
+      "subcategories": [
+        {
+          "name": "Apple",
+          "products": [
+            {
+              "id": 1,
+              "name": "iPhone 15 Pro",
+              "description": "6.1' Super Retina Display; Always-On display; Action Button; Dinamic Island; Titanium glass; A17 Pro chip",
+              "price": 999.99
+            },
+            {
+              "id": 2,
+              "name": "iPhone 15",
+              "description": "6.1' Super Retina Display;  Dinamic Island; Titanium glass; A16 Bionic chip",
+              "price": 799.99
+            },
+            {
+              "id": 3,
+              "name": "iPhone 14 Pro Max",
+              "description": "6.7' Super Retina Display; Always-On display; Dinamic Island; Stainless steel; A16 Bionic chip",
+              "price": 899.99
+            }
+          ]
+        },
+        {
+          "name": "Samsung",
+          "products": [
+            {
+              "id": 4,
+              "name": "Samsung S24+",
+              "description": "6.7' Display; Exynos 2400; Armor Aluminum Frame",
+              "price": 1399.99
+            },
+            {
+              "id": 5,
+              "name": "Galaxy Z Fold5",
+              "description": "7.6' or 6.2' Display; Snapdragon® 8 Gen 2; Armor Aluminum Frame",
+              "price": 1919.99
+            }
+          ]
+        },
+        {
+          "name": "Xiaomi",
+          "products": [
+            {
+              "id": 6,
+              "name": "XIAOMI MI 10T PRO",
+              "description": "MIUI 12 chip; Aluminum; 8-core Qualcomm Snapdragon 865G",
+              "price": 764.99
+            },
+            {
+              "id": 7,
+              "name": "XIAOMI MI 11 LITE 5G NE",
+              "description": "MIUI 12.5 chip; Metal; Qualcomm SM7325 Snapdragon 778G 5G ",
+              "price": 495.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Laptop",
+      "subcategories": [
+        {
+          "name": "ASUS",
+          "products": [
+            {
+              "id": 8,
+              "name": "ASUS TUF Gaming A16",
+              "description": "Windows 11 Pro/Home; AMD Ryzen™ 9 7845HX; NVIDIA® GeForce RTX™ 4070 GPU; 16' Display",
+              "price": 1299.99
+            },
+            {
+              "id": 9,
+              "name": "ASUS ExpertBook B5",
+              "description": "Windows 11 Pro; Intel® Core™ Ultra 7; NVIDIA® GeForce RTX 2050; 14' Display",
+              "price": 899.99
+            }
+          ]
+        },
+        {
+          "name": "HP",
+          "products": [
+            {
+              "id": 10,
+              "name": "HP Spectre x360",
+              "description": "Windows 11 Home; Intel® Core™ i5-1335U",
+              "price": 1399.99
+            }
+          ]
+        },
+        {
+          "name": "LENOVO",
+          "products": [
+            {
+              "id": 10,
+              "name": "Lenovo V15 (2nd Gen, AMD)",
+              "description": "Windows 10 Pro; AMD Ryzen™ 5000; AMD Radeon™ GPU; 1,7 kg",
+              "price": 999.99
+            }
+          ]
+        }
+      ]
+    },
+    {
+        "name": "Tablet",
+        "subcategories": [
+          {
+            "name": "Apple",
+            "products": [
+              {
+                "id": 8,
+                "name": "iPad Air",
+                "description": "10.9' Luquid Retina Display; M1 chip; USB-C connector",
+                "price": 749.99
+              },
+              {
+                "id": 9,
+                "name": "iPad Pro",
+                "description": "12.9' Luquid Retina Display; M2 chip; USB 4/Thunderbolt connector; Face Id",
+                "price": 1299.99
+              }
+            ]
+          },
+          {
+            "name": "Samsung",
+            "products": [
+              {
+                "id": 10,
+                "name": "Galaxy Tab S9 5G",
+                "description": "8-core chip; 11' Display",
+                "price": 49.99
+              }
+            ]
+          },
+          {
+            "name": "Xiaomi",
+            "products": [
+              {
+                "id": 10,
+                "name": "XIAOMI PAD 5",
+                "description": "MIUI 12.5 chip; Plastic/glass; 8-core Qualcomm Snapdragon 860",
+                "price": 495.99
+              }
+            ]
+          }
+        ]
+      },
+    {
+      "name": "Accessories",
+      "subcategories": [
+        {
+          "name": "Apple",
+          "products": [
+            {
+              "id": 8,
+              "name": "AirPods Pro 2",
+              "description": "Wireless; Audio 360; Bluetooh 5.0; Touch control; H2 chip",
+              "price": 249.99
+            },
+            {
+              "id": 9,
+              "name": "AirPods 3",
+              "description": "Wireles; H1 chip; Bluetooh 5.0",
+              "price": 169.99
+            }
+          ]
+        },
+        {
+          "name": "Samsung",
+          "products": [
+            {
+              "id": 10,
+              "name": "Galaxy Buds2 Pro",
+              "description": "Wireless; Audio 360; Dolby Atmos",
+              "price": 99.99
+            }
+          ]
+        },
+        {
+          "name": "Xiaomi",
+          "products": [
+            {
+              "id": 10,
+              "name": "Redmi Airdots 2",
+              "description": "Bluetooh 5.0; Battery 300mAh",
+              "price": 19.99
+            }
+          ]
+        }
+      ]
+    }
+  ]
