@@ -12,7 +12,7 @@ export function Catalog() {
     decrease: "Sort by price to decrease",
   });
   const [productsList, setProductsList] = useState([]);
-  const [selectedCategory, setSelectedCategory] = useState("Bedroom");
+  const [selectedCategory, setSelectedCategory] = useState("Phone");
   const [subcategory, setSubcategory] = useState("");
   const [showAll, setShowAll] = useState(true);
 
