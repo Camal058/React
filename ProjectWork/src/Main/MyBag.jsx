@@ -130,7 +130,7 @@ export function MyBag() {
                   <div className="myBag-product-info-container">
                     <div className="product-img-container">
                       <img
-                        src="https://cdn2.jysk.com/getimage/wd2.medium/202326"
+                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/1200px-React_Logo_SVG.svg.png"
                         className="product-img"
                         alt="Product"
                       />
